@@ -46,5 +46,6 @@ The project compares multiple ML algorithms to find the best balance between acc
 ```text
 ├── data/
 │   └── student_performance.csv
+└── student_performance.ipynb
+
 ├── README.md
-└── main.py
